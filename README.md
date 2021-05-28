@@ -1,5 +1,5 @@
 <p align="right">
-<img align="right" width="408" height="408" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/cow_hi.gif">
+<img align="right" width="308" height="308" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/cow_hi.gif">
 </p>
 
 ### Welcome to my GitHub Profile
