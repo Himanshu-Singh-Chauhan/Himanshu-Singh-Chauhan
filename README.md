@@ -2,9 +2,6 @@
 <img align="right" width="408" height="408" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/cow_hi.gif">
 </p>
 
-
-
-
 ### Welcome to my GitHub Profile
 
 ------
@@ -24,40 +21,18 @@
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->  
 
-<p align="left"><br><br>
-<img align="left" width="290" height="300" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/vision typing.gif"><br>
+<p align="right"><br><br>
+<img align="right" width="290" height="300" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/vision typing.gif"><br>
 </p>
-<a>
-  <img align="right" hspace="30" vspace = "30" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Singh-Chauhan&show_icons=true&theme=buefy" />
-</a>
 
-<a><br><br><br><br><br><br><br><br><br><img  align = "right" hspace="30" vspace = "30" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Singh-Chauhan&repo=Pie-Menus&show_icons=true&theme=buefy" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Singh-Chauhan&show_icons=true&theme=buefy)
 
-<a><br><br><br><br><br><br><img align = "left" hspace="30" vspace="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Singh-Chauhan&hide=AutoHotKey&layout=compact" />
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Singh-Chauhan&repo=Pie-Menus&show_icons=true&theme=buefy)
+
 <img align="right" width="200" height="200" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/kirby typing.gif">
-</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Singh-Chauhan&hide=AutoHotKey&layout=compact&theme=buefy)
 
 <!-- [joeyespo/grip: Preview GitHub README.md files locally before committing them.](https://github.com/joeyespo/grip) 
 
-Use this python utility to see readme changes directly from local cloned repo, instead of committing hundred times just to formatting is correct or not.  The readme is rendered directly from GitHub, so the formatting are very accurately shown. LOVE IT. -->  
+Use this python utility to see readme changes directly from local cloned repo, instead of committing hundred times just to formatting is correct or not.  The readme is rendered directly from GitHub, so the formatting are very accurately shown. LOVE IT. --> 
