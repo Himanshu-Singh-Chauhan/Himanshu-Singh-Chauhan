@@ -27,7 +27,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Singh-Chauhan&show_icons=true&theme=buefy)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Singh-Chauhan&repo=Pie-Menus&show_icons=true&theme=buefy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Singh-Chauhan&repo=Pie-Menus&show_icons=true&theme=buefy)](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)
 
 <img align="right" width="200" height="200" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/kirby typing.gif">
 
