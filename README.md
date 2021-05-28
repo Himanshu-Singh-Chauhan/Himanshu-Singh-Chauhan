@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 - <img width="30" height="25" src = "https://image.flaticon.com/icons/png/512/2292/2292038.png"> CS student in 2nd year with a great passion for programming.  
-- <img width="30" height="30" src = "https://image.flaticon.com/icons/png/512/893/893257.png"> How to reach me : <a href="https://twitter.com/HimSpeedo" target="_blank">@HimSpeedo</a>
-- <img width="30" height="30" src = "C:\Users\S\Downloads\like.png"> Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
+- <img width="30" height="30" src = "https://image.flaticon.com/icons/png/512/893/893257.png"> How to reach me : [@HimSpeedo](https://twitter.com/HimSpeedo)
+- <img width="30" height="20" src = "C:\Users\S\Downloads\likeE.png"> Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ... -->
