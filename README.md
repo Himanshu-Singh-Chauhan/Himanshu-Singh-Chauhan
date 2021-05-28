@@ -1,3 +1,5 @@
+<img align="right" width="300" height="400" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/code%20True.gif">
+
 ### Hi there 👋
 - 👋 Hi, I’m Himanshu Chauhan
 - 👀 I’m interested in ...
