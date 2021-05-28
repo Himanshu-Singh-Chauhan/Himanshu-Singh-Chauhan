@@ -1,4 +1,4 @@
-<img align="right" width="300" height="400" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/code%20True.gif">
+<img align="right" width="408" height="408" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/cow_hi.gif">
 
 ### Hi there 👋
 - 👋 Hi, I’m Himanshu Chauhan
