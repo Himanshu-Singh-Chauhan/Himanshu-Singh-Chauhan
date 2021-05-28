@@ -33,6 +33,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Singh-Chauhan&hide=AutoHotKey&layout=compact&theme=buefy)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHimanshu-Singh-Chauhan%2F&count_bg=%23FB0656&title_bg=%230746EF&icon=&icon_color=%23E7E7E7&title=Visitors+count&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- [joeyespo/grip: Preview GitHub README.md files locally before committing them.](https://github.com/joeyespo/grip) 
 
 Use this python utility to see readme changes directly from local cloned repo, instead of committing hundred times just to formatting is correct or not.  The readme is rendered directly from GitHub, so the formatting are very accurately shown. LOVE IT. --> 
