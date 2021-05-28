@@ -1,14 +1,58 @@
-<img align="right" width="308" height="308" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/cow_hi.gif">
+<p align="right">
+<img align="right" width="408" height="408" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/cow_hi.gif">
+</p>
 
-### Hi there 👋
 
-- <img width="30" height="25" src = "https://image.flaticon.com/icons/png/512/2292/2292038.png"> CS student in 2nd year with a great passion for programming.  
-- <img width="30" height="30" src = "https://image.flaticon.com/icons/png/512/893/893257.png"> How to reach me : [@HimSpeedo](https://twitter.com/HimSpeedo)
-- <img width="30" height="20" src = "C:\Users\S\Downloads\likeE.png"> Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
+
+
+### Welcome to my GitHub Profile
+
+------
+
+<p align = "right"><em>Connect with me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p>
+
+<a href="https://www.instagram.com/him.speedo/"><img align = "right" width="50" height="50" src = "https://image.flaticon.com/icons/png/512/408/408758.png" alt = "Instagram"></a>  <a href = "https://twitter.com/HimSpeedo"><img align = "right" width="50" height="50" src = "https://image.flaticon.com/icons/png/512/2504/2504947.png" alt="Twitter"></a>  
+
+<p><br><br><br></p>
+
+- <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/pc.png">  CS student in 2nd year with a great passion for programming.  
+- <img width="30" height="20" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/email.png">  How to reach me : [@HimSpeedo](https://twitter.com/HimSpeedo)
+- <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/like.png">  Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
+- I am also Interested in 3D modelling and animation, and Blender open source development 
 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->  
+
+<p align="left"><br><br>
+<img align="left" width="290" height="300" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/vision typing.gif"><br>
+</p>
+<a>
+  <img align="right" hspace="30" vspace = "30" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Singh-Chauhan&show_icons=true&theme=buefy" />
+</a>
+
+<a><br><br><br><br><br><br><br><br><br><img  align = "right" hspace="30" vspace = "30" src="https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Singh-Chauhan&repo=Pie-Menus&show_icons=true&theme=buefy" />
+</a>
+
+<a><br><br><br><br><br><br><img align = "left" hspace="30" vspace="30" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Singh-Chauhan&hide=AutoHotKey&layout=compact" />
+<img align="right" width="200" height="200" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/kirby typing.gif">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
