@@ -12,7 +12,7 @@
 
 <p><br><br><br></p>
 
-- <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/pc.png">  CS student in 2nd year with a great passion for programming.  
+- <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/pc.png">  CS student in 3rd year with a great passion for programming.  
 - <img width="30" height="20" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/email.png">  How to reach me : [@HimSpeedo](https://twitter.com/HimSpeedo)
 - <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/like.png">  Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
 - I am also Interested in 3D modelling and animation, and Blender open source development 
