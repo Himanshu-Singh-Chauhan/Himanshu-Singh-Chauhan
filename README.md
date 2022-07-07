@@ -8,7 +8,7 @@
 
 <p align = "right"><em>Connect with me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p>
 
-<a href="https://www.instagram.com/him.speedo/"><img align = "right" width="50" height="50" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/insta.png" alt = "Instagram"></a>  <a href = "https://twitter.com/HimSpeedo"><img align = "right" width="50" height="50" src = "https://image.flaticon.com/icons/png/512/2504/2504947.png" alt="Twitter"></a>  
+<a href="https://www.instagram.com/him.speedo/"><img align = "right" width="50" height="50" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/insta.png" alt = "Instagram"></a>  <a href = "https://twitter.com/HimSpeedo"><img align = "right" width="50" height="50" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/twitter%20no%20alpha%20channel.png" alt="Twitter"></a>  
 
 <p><br><br><br></p>
 
