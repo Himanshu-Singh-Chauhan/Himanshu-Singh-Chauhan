@@ -12,7 +12,7 @@
 
 <p><br><br><br></p>
 
-- <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/pc.png">  CS student in 3rd year with a great passion for programming.  
+<!-- - <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/pc.png">  CS student in 3rd year with a great passion for programming.  -->
 - <img width="30" height="20" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/email.png">  How to reach me : [@HimSpeedo](https://twitter.com/HimSpeedo)
 - <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/like.png">  Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
 - I am also Interested in 3D modelling and animation, and Blender open source development 
@@ -25,7 +25,7 @@
 <img align="right" width="290" height="300" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/vision typing.gif"><br>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Singh-Chauhan&show_icons=true&theme=buefy)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Singh-Chauhan&show_icons=true&theme=buefy) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu-Singh-Chauhan&repo=Pie-Menus&show_icons=true&theme=buefy)](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)
 
