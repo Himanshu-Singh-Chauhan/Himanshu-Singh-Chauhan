@@ -1,21 +1,38 @@
-<p align="right">
+<!-- <p align="right">
 <img align="right" width="308" height="308" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/cow_hi.gif">
-</p>
+</p> -->
 
-### Welcome to my GitHub Profile
+### Hi there 👋
 
 ------
 
-<p align = "right"><em>Connect with me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p>
+looking for full time job 💼 ... 
+I have deep knownledge in React, Vue, NodeJs, Postgres, Docker.
 
-<a href="https://www.instagram.com/him.speedo/"><img align = "right" width="50" height="50" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/insta.png" alt = "Instagram"></a>  <a href = "https://twitter.com/HimSpeedo"><img align = "right" width="50" height="50" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/twitter%20no%20alpha%20channel.png" alt="Twitter"></a>  
+⚡ Work experience: <br>
+- **Former SDE Intern** @ **Nova Benefits** 
+  - complete 3 months internship
+  - Full Time internship
+  - <u>Full Stack</u> (VueJs, NodeJS, GraphQL, Postgres, Docker)
 
-<p><br><br><br></p>
+🌱 Interests:
+<!-- - Building productivity tools
+- Japan -->
+- 3D Animations, VFX pipelines.
+---
+❤️ Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
+
+
+<!-- <p align = "right"><em>Connect with me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p>
+
+<a href="https://www.instagram.com/him.speedo/"><img align = "left" width="50" height="50" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/insta.png" alt = "Instagram"></a>  <a href = "https://twitter.com/HimSpeedo"><img align = "right" width="50" height="50" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/twitter%20no%20alpha%20channel.png" alt="Twitter"></a>  
+
+<p><br><br><br></p> -->
 
 <!-- - <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/pc.png">  CS student in 3rd year with a great passion for programming.  -->
-- <img width="30" height="20" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/email.png">  How to reach me : [@HimSpeedo](https://twitter.com/HimSpeedo)
+<!-- - <img width="30" height="20" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/email.png">  How to reach me : [@HimSpeedo](https://twitter.com/HimSpeedo)
 - <img width="30" height="25" src = "https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/icons/like.png">  Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
-- I am also Interested in 3D modelling and animation, and Blender open source development 
+- I am also Interested in 3D modelling and animation, and Blender open source development  -->
 
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ... -->
