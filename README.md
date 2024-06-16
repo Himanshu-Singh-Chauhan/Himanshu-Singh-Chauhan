@@ -15,7 +15,8 @@ I have deep knownledge in React, Vue, NodeJs, Postgres, Docker.
   - Full Time internship
   - <u>Full Stack</u> (VueJs, NodeJS, GraphQL, Postgres, Docker)
 
-✏️ website: https://himanshu-chauhan.vercel.app/
+✏️ website: https://himanshu-chauhan.vercel.app/ <br>
+🔗 linkedin: https://www.linkedin.com/in/himanshu-singh--chauhan/
 
 
 🌱 Interests:
