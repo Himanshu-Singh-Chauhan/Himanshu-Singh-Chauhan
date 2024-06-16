@@ -11,9 +11,12 @@ I have deep knownledge in React, Vue, NodeJs, Postgres, Docker.
 
 ⚡ Work experience: <br>
 - **Former SDE Intern** @ **Nova Benefits** 
-  - complete 3 months internship
+  - completed 3 months internship
   - Full Time internship
   - <u>Full Stack</u> (VueJs, NodeJS, GraphQL, Postgres, Docker)
+
+✏️ website: https://himanshu-chauhan.vercel.app/
+
 
 🌱 Interests:
 <!-- - Building productivity tools
