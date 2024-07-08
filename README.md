@@ -24,7 +24,7 @@ I have deep knownledge in React, Vue, NodeJs, Postgres, Docker.
 - Japan -->
 - 3D Animations, VFX pipelines.
 ---
-❤️ Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus)    
+❤️ Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus) - 15 ⭐
 
 
 <!-- <p align = "right"><em>Connect with me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p>
