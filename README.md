@@ -2,10 +2,7 @@
 <img align="right" width="308" height="308" src="https://github.com/Himanshu-Singh-Chauhan/Himanshu-Singh-Chauhan/blob/main/resources/gifs/cow_hi.gif">
 </p> -->
 
-### Hi there 👋
-
-✏️ website: https://himanshu-chauhan.vercel.app/ <br>
-🔗 linkedin: https://www.linkedin.com/in/himanshu-singh--chauhan/
+### Hi there 👋  [Website](https://himanshu-chauhan.vercel.app/) - [Linkedin](https://www.linkedin.com/in/himanshu-singh--chauhan/) 
 
 ------
 
