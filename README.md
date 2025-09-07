@@ -4,24 +4,19 @@
 
 ### Hi there 👋
 
-------
-
-looking for full time job 💼 ... 
-I have deep knownledge in React, Vue, NodeJs, Postgres, Docker.
-
-⚡ Work experience: <br>
-- **Former SDE Intern** @ **Nova Benefits** 
-  - completed 3 months internship
-  - Full Time internship
-  - <u>Full Stack</u> (VueJs, NodeJS, GraphQL, Postgres, Docker)
-
 ✏️ website: https://himanshu-chauhan.vercel.app/ <br>
 🔗 linkedin: https://www.linkedin.com/in/himanshu-singh--chauhan/
 
+------
+
+⚡ Work experience: <br>
+- Software Engineer @ PearAI (YC F24)
+- SDE/SWE Intern at Nova Benefits 
 
 🌱 Interests:
 <!-- - Building productivity tools
 - Japan -->
+- Building products.
 - 3D Animations, VFX pipelines.
 ---
 ❤️ Interesting repository in my GitHub: [Pie Menus](https://github.com/Himanshu-Singh-Chauhan/Pie-Menus) - 18 ⭐
